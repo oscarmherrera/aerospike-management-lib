@@ -4,7 +4,7 @@ go 1.16
 
 require (
 	github.com/aerospike/aerospike-client-go v4.5.2+incompatible // indirect
-	github.com/ashishshinde/aerospike-client-go v3.0.3+incompatible
+	github.com/ashishshinde/aerospike-client-go/v5 v5.0.0-20210711030305-604f00410716 // indirect
 	github.com/go-stack/stack v1.8.0 // indirect
 	github.com/inconshreveable/log15 v0.0.0-20201112154412-8562bdadbbac
 	github.com/kballard/go-shellquote v0.0.0-20180428030007-95032a82bc51 // indirect
